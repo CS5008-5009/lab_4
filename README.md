@@ -22,19 +22,34 @@ Output example for insertion sort is shown below. You need to have similar outpu
 Insertion Sort
 Input array size: 5
 Input elements of array:
+
 9
+
 6
+
 7
+
 4
+
 8
+
 Original array:
+
 9 6 7 4 8
+
 Sorting process:
 6 9 7 4 8
+
 6 7 9 4 8
+
 6 7 4 9 8
+
 6 4 7 9 8
+
 4 6 7 9 8
+
 4 6 7 8 9
+
 Sorted array:
+
 4 6 7 8 9
